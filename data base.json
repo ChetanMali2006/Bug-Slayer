@@ -1,0 +1,63 @@
+
+    "id": 1,
+    "name": "Public Toilet Nashik Center",
+    "location": {
+      "lat": 19.9975,
+      "lon": 73.7898
+    },
+    "status": "Open",
+
+    "water": {
+      "available": true,
+      "level_percent": 82
+    },
+
+    "ai_metrics": {
+      "cleanliness_score": 85,
+      "grade": "B",
+      "last_updated": "2026-02-23T12:00:00"
+    },
+
+    "usage_metrics": {
+      "crowd_level": 30,
+      "peak_hour_prediction": "6PM-8PM"
+    },
+
+    "maintenance": {
+      "last_cleaned": "2026-02-23T09:30:00",
+      "next_predicted_cleaning": "2026-02-23T18:00:00",
+      "risk_level": "Medium"
+    }
+  },
+
+  {
+    "id": 2,
+    "name": "Public Toilet Nashik Market Area",
+    "location": {
+      "lat": 19.9910,
+      "lon": 73.7810
+    },
+    "status": "Open",
+
+    "water": {
+      "available": false,
+      "level_percent": 20
+    },
+
+    "ai_metrics": {
+      "cleanliness_score": 60,
+      "grade": "C",
+      "last_updated": "2026-02-23T11:45:00"
+    },
+
+    "usage_metrics": {
+      "crowd_level": 70,
+      "peak_hour_prediction": "5PM-9PM"
+    },
+
+    "maintenance": {
+      "last_cleaned": "2026-02-23T08:00:00",
+      "next_predicted_cleaning": "2026-02-23T15:00:00",
+      "risk_level": "High"
+    }
+  }
